@@ -1,4 +1,9 @@
 package org.example.task5;
 
-public class Drivable {
+public interface Drivable {
+    void start();
+
+    void stop();
+
+    void drive(int distance);
 }
