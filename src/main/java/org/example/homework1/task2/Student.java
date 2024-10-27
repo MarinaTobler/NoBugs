@@ -1,4 +1,4 @@
-package org.example.task2;
+package org.example.homework1.task2;
 
 public class Student implements Printable {
     private String name;

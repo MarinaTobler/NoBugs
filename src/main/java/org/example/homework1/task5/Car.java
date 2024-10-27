@@ -1,4 +1,4 @@
-package org.example.task5;
+package org.example.homework1.task5;
 
 public class Car implements Drivable {
     private String brand;

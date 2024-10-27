@@ -1,4 +1,4 @@
-package org.example.task4;
+package org.example.homework1.task4;
 
 public interface Readable {
     String readTime();
